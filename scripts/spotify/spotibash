@@ -1,6 +1,0 @@
-#!/bin/sh
-alias spotify='$DOTFILES_PATH/scripts/spotify/spotifycli.sh'
-alias sps='spotify getStatus'
-alias sp='spotify toggle'
-alias spn='spotify next'
-alias spp='spotify prev'
