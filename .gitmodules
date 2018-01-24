@@ -82,3 +82,6 @@
 [submodule "vim/.vim/bundle/fzf"]
 	path = vim/.vim/bundle/fzf
 	url = https://github.com/junegunn/fzf.vim
+[submodule "vim/.vim/bundle/vim-rhubarb"]
+	path = vim/.vim/bundle/vim-rhubarb
+	url = https://github.com/tpope/vim-rhubarb.git
