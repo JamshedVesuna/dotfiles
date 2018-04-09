@@ -69,3 +69,6 @@ bindkey    "^[3;5~"         delete-char
 #######
 # Start MacVim with the default session or load options.
 alias mvs="mvim -c ':OpenSession'"
+
+alias vm="vim"
+alias im="vim"
