@@ -72,3 +72,4 @@ alias mvs="mvim -c ':OpenSession'"
 
 alias vm="vim"
 alias im="vim"
+alias ivm="vim"
