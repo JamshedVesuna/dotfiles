@@ -85,3 +85,6 @@
 [submodule "vim/.vim/bundle/vim-rhubarb"]
 	path = vim/.vim/bundle/vim-rhubarb
 	url = https://github.com/tpope/vim-rhubarb.git
+[submodule "vim/.vim/bundle/vim-abolish"]
+	path = vim/.vim/bundle/vim-abolish
+	url = https://github.com/tpope/vim-abolish.git
