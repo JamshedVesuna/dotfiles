@@ -119,7 +119,6 @@ alias tailf='tail -f'
 alias ccat='vimcat'
 
 # ls/cd aliases
-alias cd='cdmagic'
 alias ll='ls -lhF'
 alias lla='ll -a'
 alias la='ls -a'
